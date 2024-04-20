@@ -2,7 +2,7 @@
 
 ## First Task : Brick-Breaker Game 🧱
 
-👋 
+👋 This project marks my debut in game development using Java. Inspired by the timeless classic Brick Breaker, I've crafted a simple yet captivating version complete with a graphical user interface (GUI).
 
 🎮 Using basic Java, I crafted this code from scratch and even developed a sleek GUI (Graphical User Interface) to enhance the gaming experience. But before we delve into the code, let's grasp the allure of Brick Breaker - a timeless classic where you control a paddle, bouncing a ball to demolish a wall of bricks while racking up points. 🧱🏓
 
