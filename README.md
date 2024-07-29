@@ -45,13 +45,13 @@ Scientific Functions: Square Root, Sine, Cosine, Tangent, Logarithm (base 10 and
 * `Square Power: Click the "pow2" button to calculate the square of the displayed number.`
 
 
-## Third Task : Simple Banking Application GUI
+## 🏦 Third Task : Simple Banking Application GUI
 This is a Java-based Simple Banking Application GUI developed during a project at Tech Straver. The application allows users to deposit and withdraw funds while maintaining account balances.
 
 ### Features
-Deposit and withdraw funds
-Track account balances
-Simple graphical user interface
+* 💸 Deposit and withdraw funds
+* 💼 Track account balances
+* 🖥️ Simple graphical user interface
 
 ### Usage
 #### Deposit
