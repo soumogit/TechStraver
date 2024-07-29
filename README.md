@@ -14,3 +14,18 @@ Curious to see it in action? Check out the video to witness the magic of the Bri
 Clone this repository to your local machine.
 Compile and run the BrickBreaker.java file.
 Enjoy the game! Use the arrow keys to move the paddle and prevent the ball from falling off the screen. Break as many bricks as you can to earn points.
+
+
+## Second Task : Scientific Calculator ca📱
+
+This is a Java-based Scientific Calculator application developed during a project at Tech Straver. The calculator supports basic arithmetic operations as well as various scientific functions.
+
+## Features
+Basic Arithmetic Operations: Addition, Subtraction, Multiplication, Division
+Scientific Functions: Square Root, Sine, Cosine, Tangent, Logarithm (base 10 and natural log), Power, Square Power
+
+## Installation
+1. Clone the repository:
+  * `git help`git clone https://github.com/your-username/scientific-calculator.git`
+2. Open the project in your preferred IDE.
+3. Build the project to resolve any dependencies.
