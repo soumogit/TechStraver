@@ -27,7 +27,19 @@ Scientific Functions: Square Root, Sine, Cosine, Tangent, Logarithm (base 10 and
 ## Installation
 1. Clone the repository:
    ```bash
-        git clone https://github.com/your-username/scientific-calculator.git
+   git clone https://github.com/your-username/scientific-calculator.git
    ```
 2. Open the project in your preferred IDE.
 3. Build the project to resolve any dependencies.
+
+
+### Scientific Functions
+
+* `Square Root: Click the "sqrt" button to calculate the square root of the displayed number.`
+Sine: Click the "sin" button to calculate the sine of the displayed number (in degrees).
+Cosine: Click the "cos" button to calculate the cosine of the displayed number (in degrees).
+Tangent: Click the "tan" button to calculate the tangent of the displayed number (in degrees).
+Logarithm (base 10): Click the "log" button to calculate the base-10 logarithm of the displayed number.
+Natural Logarithm: Click the "ln" button to calculate the natural logarithm of the displayed number.
+Power: Click the "pow" button, enter the exponent in the prompt, and click "OK" to calculate the power of the displayed number.
+Square Power: Click the "pow2" button to calculate the square of the displayed number.
