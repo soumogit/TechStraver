@@ -26,6 +26,8 @@ Scientific Functions: Square Root, Sine, Cosine, Tangent, Logarithm (base 10 and
 
 ## Installation
 1. Clone the repository:
-  * `git help`git clone https://github.com/your-username/scientific-calculator.git`
+   ```bash
+        git help`git clone https://github.com/your-username/scientific-calculator.git
+   ```
 2. Open the project in your preferred IDE.
 3. Build the project to resolve any dependencies.
