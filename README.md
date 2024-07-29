@@ -43,3 +43,27 @@ Scientific Functions: Square Root, Sine, Cosine, Tangent, Logarithm (base 10 and
 * `Natural Logarithm: Click the "ln" button to calculate the natural logarithm of the displayed number.`
 * `Power: Click the "pow" button, enter the exponent in the prompt, and click "OK" to calculate the power of the displayed number.`
 * `Square Power: Click the "pow2" button to calculate the square of the displayed number.`
+
+
+## Third Task : Simple Banking Application GUI
+This is a Java-based Simple Banking Application GUI developed during a project at Tech Straver. The application allows users to deposit and withdraw funds while maintaining account balances.
+
+### Features
+Deposit and withdraw funds
+Track account balances
+Simple graphical user interface
+
+### Usage
+#### Deposit
+* Enter your name in the "Name" field.
+* Enter your account number in the "Account Number" field.
+* Enter the amount to deposit in the "Amount" field.
+* Click the "Deposit" button.
+* The updated balance will be displayed in the output area.
+#### Withdraw
+* Enter your name in the "Name" field.
+* Enter your account number in the "Account Number" field.
+* Enter the amount to withdraw in the "Amount" field.
+* Click the "Withdraw" button.
+* The updated balance will be displayed in the output area.
+
